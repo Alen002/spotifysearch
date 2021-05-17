@@ -1,9 +1,10 @@
-import './App.css';
+import "./App.css";
+import Login from "./Login";
 
 function App() {
   return (
     <>
-    <h3>Spotify App</h3>
+      <Login />
     </>
   );
 }
